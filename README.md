@@ -29,4 +29,4 @@ Linked List
   - Removing a node
     - How to prevent orphaned nodes
     - Must adjust link on previous node so that it points to the following node
-    - ![](https://file%2B.vscode-resource.vscode-cdn.net/var/folders/f2/msjnmvg14mgdf6s2h2brfw3c0000gn/T/TemporaryItems/NSIRD_screencaptureui_uUtoYK/Screen%20Shot%202022-09-27%20at%207.06.42%20AM.png?version%3D1664276819486)
+    ![node removal](/Day1/node-removal.png)

@@ -21,7 +21,7 @@ node2 = Node("second node", node3)
 node1 = Node("first node", node2)
 
 #Getting value of a node's pointer
-print(node1.get_link_node().get_value())
-print(node2.get_link_node().get_value())
+#print(node1.get_link_node().get_value())
+#print(node2.get_link_node().get_value())
 
 
