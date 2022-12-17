@@ -30,3 +30,20 @@ Linked List
     - How to prevent orphaned nodes
     - Must adjust link on previous node so that it points to the following node
     ![node removal](/Day1/node-removal.png)
+
+
+#Udacity
+#Day 2
+Big O(n) Notation:
+n is the amount of time or space it takes for your algorith to run.
+
+Time Efficiency Practice, Manatees
+Example1: O(n)
+Example2: O(1)
+Example3: O(nm)
+Example4: O(nn)
+
+Big O Cheat Sheet: https://www.bigocheatsheet.com/
+
+
+List-Based Collections
